@@ -13,4 +13,4 @@ To access this project, your system needs the following software -
 To run the application locally, you need to run the `Controller.py` through the above-mentioned IDE.
 
 ### Disclaimer
-The application was created as a part of dissertation presented in part fulfilment of the requirements of the Degree of Master of Science at The University of Glasgow.
+The application was created as a part of dissertation: **An Investigation into using a commercial VR Headset andbiofeedback amplifier to identify visually evoked potentials** presented in part fulfilment of the requirements of the Degree of Master of Science at The University of Glasgow.
