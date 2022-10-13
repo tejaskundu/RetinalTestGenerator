@@ -2,7 +2,7 @@
 
 ### Application Description
 Retinopathy describes diseases involving the retina.Diseases such as Diabetes, high blood pressure, anaemia, and systemic lupus erythematosus can cause retinopathy. The visual field map is an important feature for accurately determining the extent of an observer's ability to naturally see. The RetinalTestGenerator is an automated application cabale of generatng calibration test and automated pattern tests for the detection of visually evoked potential and the functional mapping of the visual of a patient with retinopathy.
-This application helps in the collection and analysis of the data collected through the biofeedback amplifier. More details about the entire data collection and analysis process are provided in the report.
+This application helps in the collection and analysis of the data collected through the biofeedback amplifier. More details about the entire data collection and analysis process are provided in the report **Investigation into using commercial devices to identify VEP**.
 
 ### System and Environment Requirements
 To access this project, your system needs the following software - 
